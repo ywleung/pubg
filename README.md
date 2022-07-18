@@ -3,6 +3,6 @@ This project contains IPyhton Notebook files for a Kaggle competition <a href='h
 EDA.ipynb performs Exploratory Data Analysis and a preliminary model on the train set. neural_network.ipynb and lightGB.ipynb perform feature engineering and modeling.
 
 Conclusion:
-group statistics are the most important features to the prediction
-neural network is unstable in this dataset
+- group statistics are the most important features to the prediction<br>
+- neural network is unstable in this dataset
 
